@@ -28,18 +28,6 @@
 
 ---
 
-## 📌 Featured Projects
-🚀 Some of my favorite projects:  
-
-- 🛒 [**Shopping Cart (MVC Pattern)**](https://github.com/Harsh-Koundal/shopping-cart) — E-commerce cart with clean MVC architecture.  
-- 💰 [**Smart Expense Tracker**](https://github.com/Harsh-Koundal/expense-tracker) — Track income, expenses, and savings with local storage.  
-- 📝 [**LifeBoard**](https://github.com/Harsh-Koundal/lifeboard) — A digital dashboard for managing life goals.  
-- 🎨 [**Portfolio Website**](https://github.com/Harsh-Koundal/portfolio) — Responsive personal portfolio with animations.  
-
-👉 *Check out my repositories for more cool stuff!*  
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Koundal&show_icons=true&theme=radical" height="180"/>
