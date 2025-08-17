@@ -40,20 +40,20 @@
 
 <p align="center">
   <!-- GitHub Stats -->
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harsh-Koundal&theme=tokyonight&utcOffset=5" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsh-Koundal&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harsh-Koundal&theme=tokyonight" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harsh-koundal&theme=tokyonight&utcOffset=5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harsh-koundal&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh-koundal&theme=tokyonight" />
 
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Harsh-Koundal&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=harsh-koundal&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
 
 ---
 
 ## ⚡ Activity Graph  
-[![Harsh's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Koundal&theme=react-dark&bg_color=0D1117&color=00FFF7&line=FF0080&point=00FFF7&hide_border=true)](https://github.com/Harsh-Koundal)
+[![Harsh's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=harsh-koundal&theme=react-dark&bg_color=0D1117&color=00FFF7&line=FF0080&point=00FFF7&hide_border=true)](https://github.com/Harsh-Koundal)
 
 ---
 
