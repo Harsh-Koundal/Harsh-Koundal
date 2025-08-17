@@ -70,10 +70,10 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Harsh-Koundal?tab=followers">
-    <img src="https://img.shields.io/github/followers/Harsh-Koundal?style=for-the-badge&label=Followers&logo=github&cacheSeconds=3600" alt="Followers"/>
+  <a href="https://github.com/harsh-koundal?tab=followers">
+    <img src="https://img.shields.io/github/followers/harsh-koundal?style=for-the-badge&label=Followers&logo=github&cacheSeconds=3600" alt="Followers"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Harsh-Koundal&style=for-the-badge&color=00FFF7&label=Profile%20Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=harsh-koundal&style=for-the-badge&color=00FFF7&label=Profile%20Views" alt="Profile Views"/>
 </p>
 
 ---
