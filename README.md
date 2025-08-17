@@ -37,14 +37,15 @@
 ---
 
 ## 🌌 GitHub Stats  
+
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Koundal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+
+  <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=Harsh-Koundal&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Koundal&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-</p>
 
 ---
 
