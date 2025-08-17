@@ -38,18 +38,18 @@
 
 ## 🌌 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-koundal&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=harsh-koundal&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Koundal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Harsh-Koundal&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-koundal&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Koundal&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 ---
 
 ## ⚡ Activity Graph  
-[![Harsh's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=harsh-koundal&theme=react-dark&bg_color=0D1117&color=00FFF7&line=FF0080&point=00FFF7&hide_border=true)](https://github.com/harsh-koundal)
+[![Harsh's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Koundal&theme=react-dark&bg_color=0D1117&color=00FFF7&line=FF0080&point=00FFF7&hide_border=true)](https://github.com/Harsh-Koundal)
 
 ---
 
@@ -66,12 +66,12 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/harsh-koundal?tab=followers">
-    <img src="https://img.shields.io/github/followers/harsh-koundal?style=for-the-badge&label=Followers&logo=github&cacheSeconds=3600" alt="Followers"/>
+  <a href="https://github.com/Harsh-Koundal?tab=followers">
+    <img src="https://img.shields.io/github/followers/Harsh-Koundal?style=for-the-badge&label=Followers&logo=github&cacheSeconds=3600" alt="Followers"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=harsh-koundal&style=for-the-badge&color=00FFF7&label=Profile%20Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Harsh-Koundal&style=for-the-badge&color=00FFF7&label=Profile%20Views" alt="Profile Views"/>
 </p>
 
 ---
 
-<p align="center"><b>I build clean, fast, future-ready UIs.</b> 🚀</p>
+<p align="center"><b>I craft clean, fast & futuristic UIs — where design meets performance 🚀</b></p>
