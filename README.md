@@ -1,6 +1,6 @@
-<!-- Animated Header -->
+<!-- ⚡ Futuristic Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hello+World!;I'm+Harsh+Koundal;Frontend+Developer;React+%7C+JavaScript+Enthusiast;Crafting+Futuristic+Web+Experiences">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hello%2C+I'm+Harsh+Koundal;Frontend+Developer;React+%26+JavaScript+Enthusiast;Crafting+Futuristic+Web+Experiences" />
 </p>
 
 ---
@@ -9,23 +9,23 @@
 💻 **Frontend Developer | React & JavaScript Enthusiast**  
 ⚡ Passionate about building futuristic, user-friendly, and modern web applications.  
 
-- 🔭 Working on **real-world frontend projects** (React, JS, Tailwind)  
-- 🌱 Exploring **Advanced JavaScript, Animations, and APIs**  
-- 🎯 Goal: Become a **Full-Stack Developer**  
-- ⚡ Fun Fact: *I love solving tricky bugs and making code cleaner*  
+- 🔭 Working on **real-world projects** with React, JS & Tailwind  
+- 🌱 Exploring **Advanced JavaScript, Animations, & API Integrations**  
+- 🎯 Goal → Become a **Full-Stack Developer**  
+- ⚡ Fun Fact → *I debug faster at night 🌌*  
 
 ---
 
 ## 🛸 Tech Stack  
 
 ### 🚀 Frontend  
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F7FF)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7E017)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E96228)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=2862E9)
 
-### ⚡ Tools  
+### ⚡ Tools & Environment  
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F14E32)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=0078D7)
@@ -33,84 +33,15 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌤 Weather App</h3>
-      <p align="center">A clean and modern weather app using APIs.</p>
-      <p align="center">
-        <a href="https://github.com/Harsh-Koundal/Weather_App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-Koundal&repo=Weather_App&theme=tokyonight" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📝 TO-DO List</h3>
-      <p align="center">Minimal To-Do app to organize daily tasks.</p>
-      <p align="center">
-        <a href="https://github.com/Harsh-Koundal/TO-DO-LIST">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-Koundal&repo=TO-DO-LIST&theme=tokyonight" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Gemini-AI</h3>
-      <p align="center">An AI-powered project with futuristic UI.</p>
-      <p align="center">
-        <a href="https://github.com/Harsh-Koundal/Gemini-AI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-Koundal&repo=Gemini-AI&theme=tokyonight" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💰 Expense Tracker</h3>
-      <p align="center">Track and manage expenses smartly.</p>
-      <p align="center">
-        <a href="https://github.com/Harsh-Koundal/Expense-Tracker">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-Koundal&repo=Expense-Tracker&theme=tokyonight" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛒 Amazon Clone</h3>
-      <p align="center">A functional clone of Amazon UI.</p>
-      <p align="center">
-        <a href="https://github.com/Harsh-Koundal/amazon">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-Koundal&repo=amazon&theme=tokyonight" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Currency Converter</h3>
-      <p align="center">Convert currencies using real-time rates.</p>
-      <p align="center">
-        <a href="https://github.com/Harsh-Koundal/Currency-Converter">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-Koundal&repo=Currency-Converter&theme=tokyonight" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🌌 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Koundal&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Koundal&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Harsh-Koundal&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Harsh-Koundal&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Koundal&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Harsh-Koundal&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
