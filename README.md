@@ -46,9 +46,8 @@
   
   <!-- GitHub Streak -->
 <!-- GitHub Streak (Primary source) -->
-<p align="center">
-  (https://streak-stats.demolab.com?user=harsh-koundal&theme=tokyonight&hide_border=true)
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=harsh-koundal&theme=tokyonight&hide_border=true)
+
 
 
 
