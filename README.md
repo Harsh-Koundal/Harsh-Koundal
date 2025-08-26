@@ -43,8 +43,7 @@
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harsh-koundal&theme=tokyonight&utcOffset=5" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harsh-koundal&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh-koundal&theme=tokyonight" />
-
-
+  
   <!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=harsh-koundal&theme=tokyonight&hide_border=true"/>
 
