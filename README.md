@@ -46,7 +46,7 @@
 
 
   <!-- GitHub Streak -->
-  ![GitHub Streak](https://streak-stats.demolab.com?user=harsh-koundal&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=harsh-koundal&theme=tokyonight&hide_border=true"/>
 
 
 
