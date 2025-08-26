@@ -45,7 +45,16 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh-koundal&theme=tokyonight" />
   
   <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=harsh-koundal&theme=tokyonight&hide_border=true"/>
+<!-- GitHub Streak (Primary source) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harsh-koundal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Fallback (if DemoLab is down, this one will still work) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-koundal&theme=tokyonight&hide_border=true" alt="GitHub Streak Backup" />
+</p>
+
 
 
 
