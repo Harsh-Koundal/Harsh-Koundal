@@ -46,8 +46,8 @@
 
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=harsh-koundal&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-</p>
+  ![GitHub Streak](https://streak-stats.demolab.com?user=harsh-koundal&theme=tokyonight&hide_border=true)
+
 
 
 ---
