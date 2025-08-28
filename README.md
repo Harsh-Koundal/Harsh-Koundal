@@ -45,7 +45,10 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh-koundal&theme=tokyonight" />
   
   <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=harsh-koundal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img 
+    src="https://streak-stats.demolab.com?user=harsh-koundal&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
 
 
 
