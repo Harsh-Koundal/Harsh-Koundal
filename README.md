@@ -12,8 +12,7 @@
 💻 **Frontend Developer | React & JavaScript Enthusiast**  
 ⚡ Passionate about building futuristic, user-friendly, and modern web applications.  
 
-- 🔭 Working on **real-world projects** with React, JS & Tailwind  
-- 🌱 Exploring **Advanced JavaScript, Animations, & API Integrations**  
+- 🔭 Working on **real-world projects** with React, JS & Tailwind  & learning Backend 
 - 🎯 Goal → Become a **Full-Stack Developer**  
 - ⚡ Fun Fact → *I debug faster at night 🌌*  
 
