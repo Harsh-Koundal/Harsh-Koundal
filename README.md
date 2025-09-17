@@ -48,9 +48,13 @@
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=harsh-koundal&theme=tokyonight&hide_border=true)
 
+
 </div>
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=harsh-koundal&theme=dracula&column=4&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+</div>
 ---
 
 ## ⚡ Activity Graph  
