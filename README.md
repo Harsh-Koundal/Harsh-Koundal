@@ -46,6 +46,12 @@
 
 ---
 
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh-koundal&theme=matrix&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="Trophies" />
+</p>
+---
+
 ## 🌟 GitHub Stats  
 
 <p align="center">
@@ -61,7 +67,6 @@
 ![Harsh's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=harsh-koundal&theme=react-dark&bg_color=0D1117&color=00FFF7&line=FF0080&point=00FFF7&hide_border=true)
 
 ---
-
 
 ## 🌐 Connect With Me  
 
