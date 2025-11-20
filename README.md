@@ -48,8 +48,12 @@
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsh-koundal&theme=matrix&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=harsh-koundal&theme=monokai&no-frame=true&no-bg=true&margin-w=15&title=Stars,Commit,Repositories,PullRequest,Issues,Followers,Contributions,MultiLanguage" />
 </p>
+
+
+
+
 ---
 
 ## 🌟 GitHub Stats  
@@ -58,7 +62,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh-koundal&theme=tokyonight" />
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=harsh-koundal&theme=tokyonight&hide_border=true" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh-koundal&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harsh-koundal&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-koundal&layout=compact&theme=tokyonight" />
 </p>
 
 ---
