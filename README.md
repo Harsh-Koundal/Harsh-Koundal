@@ -62,7 +62,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh-koundal&theme=tokyonight" />
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=harsh-koundal&theme=tokyonight&hide_border=true" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh-koundal&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Harsh-Koundal&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harsh-koundal&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 ---
