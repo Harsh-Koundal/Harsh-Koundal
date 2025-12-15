@@ -61,7 +61,7 @@
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh-koundal&theme=tokyonight" />
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=harsh-koundal&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=Harsh-Koundal&theme=aura&hide_border=false&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Harsh-Koundal&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harsh-koundal&layout=compact&theme=tokyonight&hide_border=true" />
 
 
