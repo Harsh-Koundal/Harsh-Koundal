@@ -14,7 +14,6 @@
 - ⚙️ Practicing **Backend + APIs + Database Modeling**
 - 🎯 Goal: Become a **Full-Stack Software Engineer**
 - 🌱 Learning: **Express Auth • JWT • Cloud Deployment**
-- 🎧 Fun fact: *Midnight coding with lofi = superpowers 🌌*
 
 ---
 
