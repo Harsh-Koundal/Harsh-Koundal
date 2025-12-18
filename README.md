@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=29&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Harsh+Koundal;Full+Stack+MERN+Developer;React+%2B+Node+%2B+MongoDB+Developer;Crafting+Futuristic+Digital+Experiences">
 </p>
-
 ---
 
 ## 👨‍🚀 About Me  
