@@ -1,18 +1,20 @@
-<!-- ⚡ Hero Animated Header -->
+<!-- ⚡ Futuristic Animated Hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=29&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Harsh+Koundal;Full+Stack+MERN+Developer;React+%2B+Node+%2B+MongoDB+Developer;Crafting+Futuristic+Digital+Experiences">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3500&pause=1200&color=00E7FF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Harsh+Koundal;Software+Developer+Engineer;Full+Stack+MERN+Developer;React+%2B+Node+%2B+MongoDB;Building+Smart+%26+Scalable+Applications">
 </p>
+
 ---
 
 ## 👨‍🚀 About Me  
 
-💻 **Full-Stack MERN Developer | Frontend Specialist | API Builder**  
-⚡ Focus: **Modern Web Apps • Performance • UI / UX • Scalable Systems**  
+💻 **Software Developer Engineer | MERN Stack Dev | DSA Learner**  
+⚡ Passionate about **High-Performance Web Apps • APIs • Scalable Systems • UI/UX**  
 
-- 🚀 Currently building **real-world MERN projects**
-- ⚙️ Practicing **Backend + APIs + Database Modeling**
-- 🎯 Goal: Become a **Full-Stack Software Engineer**
-- 🌱 Learning: **Express Auth • JWT • Cloud Deployment**
+- 🏗 Currently working on **real-world MERN projects**
+- 🔥 Learning & solving **Data Structures & Algorithms**
+- ⚙ Experienced in **Backend, Auth Systems, REST APIs & DB Architecture**
+- 🎯 Goal: Become an **expert Full-Stack Engineer**
+- 🌿 Focus Areas: **System Design, Optimization, Problem Solving**
 
 ---
 
@@ -33,7 +35,7 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-0D1117?style=for-the-badge&logo=mongoose&logoColor=880000)
 ![REST API](https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### ⚙️ Tools & Environment  
+### ⚙️ Tools & DevOps  
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F14E32)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=0078D7)
@@ -44,30 +46,25 @@
 
 ---
 
-## 🏆 GitHub Achievements  
+## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=harsh-koundal&theme=monokai&no-frame=true&no-bg=true&margin-w=15&title=Stars,Commit,Repositories,PullRequest,Issues,Followers,Contributions,MultiLanguage" />
 </p>
 
-
-
-
 ---
 
-## 🌟 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh-koundal&theme=tokyonight" />
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=harsh-koundal&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Koundal&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harsh-koundal&layout=compact&theme=tokyonight&hide_border=true" />
-
-
-
 </p>
+
 ---
 
-## ⚡ Activity Graph  
+## ⚡ Contribution Graph  
 ![Harsh's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=harsh-koundal&theme=react-dark&bg_color=0D1117&color=00FFF7&line=FF0080&point=00FFF7&hide_border=true)
 
 ---
@@ -76,12 +73,11 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/harsh-koundal-0a7485369/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="mailto:aharsh3039@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF0080"/></a>
-<br/>
+<a href="mailto:aharsh3039@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF0080"/></a><br>
 <a href="https://github.com/harsh-koundal?tab=followers"><img src="https://img.shields.io/github/followers/harsh-koundal?style=for-the-badge&label=Followers&logo=github&color=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=harsh-koundal&style=for-the-badge&color=blueviolet&label=Profile%20Views"/>
 </p>
 
 ---
 
-<p align="center"><b>Where futuristic UI meets real engineering 🚀</b></p>
+<p align="center"><b>Crafting future-ready applications with clean engineering 🚀</b></p>
