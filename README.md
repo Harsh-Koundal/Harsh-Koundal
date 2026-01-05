@@ -1,6 +1,6 @@
 <!-- ⚡ Professional Engineer Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Harsh+Koundal;Software+Development+Engineer+(SDE-I);Full-Stack+Engineer+%7C+Backend+Focused;Building+Production-Ready+Web+Systems">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Harsh+Koundal;Software+Development+Engineer;Full-Stack+Engineer+%7C+Backend+Focused;Building+Production-Ready+Web+Systems">
 </p>
 
 ---
