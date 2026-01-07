@@ -7,7 +7,7 @@
 
 ## About  
 
-**Software Development Engineer (SDE-I)** with experience in **production-grade backend systems, full-stack web applications, and Linux-based environments**.  
+**Software Development Engineer ** with experience in **production-grade backend systems, full-stack web applications, and Linux-based environments**.  
 Focused on **reliable APIs, system workflows, performance optimization, and scalable engineering practices**.
 
 ---
