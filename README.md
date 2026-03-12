@@ -8,7 +8,7 @@
 ## About  
 
 **Software Engineer** with experience in **production-grade backend systems, full-stack web applications, and Linux-based environments**.  
-Focused on **reliable APIs, system workflows, performance optimization, and scalable engineering practices**.
+Focused on **System Design,Reliable APIs, System Workflows, Performance Optimization, and Scalable Engineering Practices**.
 
 ---
 
