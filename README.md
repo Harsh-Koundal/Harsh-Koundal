@@ -97,4 +97,4 @@ Focused on **System Design,Reliable APIs, System Workflows, Performance Optimiza
 </p>
 
 ---
-<p align="center"><b>Building reliable systems with clean engineering and long-term thinking</b></p>
+<p align="center"><b>Building reliable systems with clean engineering and long-term thinking.</b></p>
